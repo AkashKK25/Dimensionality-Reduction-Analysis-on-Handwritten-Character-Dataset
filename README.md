@@ -1,4 +1,4 @@
-# Project 2 - Dimensionality Reduction
+# Project - Dimensionality Reduction
 
 
 ## Dataset - Custom Handwritten Characters
